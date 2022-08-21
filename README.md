@@ -1,2 +1,2 @@
 # git_use
-git using firstly
+git using secondly
